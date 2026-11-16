@@ -1,0 +1,85 @@
+{
+  "freeTextAnnotations": [],
+  "freeShapeAnnotations": [],
+  "trafficRateAnnotations": [],
+  "scriptButtonAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "r1",
+      "position": {
+        "x": 300,
+        "y": 360
+      }
+    },
+    {
+      "id": "r2",
+      "position": {
+        "x": 440,
+        "y": 440
+      }
+    },
+    {
+      "id": "r3",
+      "position": {
+        "x": 400,
+        "y": 220
+      }
+    },
+    {
+      "id": "r4",
+      "position": {
+        "x": 560,
+        "y": 280
+      }
+    },
+    {
+      "id": "client",
+      "position": {
+        "x": 120,
+        "y": 380
+      }
+    },
+    {
+      "id": "branch",
+      "position": {
+        "x": 580,
+        "y": 540
+      }
+    },
+    {
+      "id": "dc",
+      "position": {
+        "x": 460,
+        "y": 80
+      }
+    },
+    {
+      "id": "branch2",
+      "position": {
+        "x": 440,
+        "y": 600
+      }
+    },
+    {
+      "id": "dc2",
+      "position": {
+        "x": 480,
+        "y": 340
+      }
+    },
+    {
+      "id": "service",
+      "position": {
+        "x": 720,
+        "y": 260
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {
+    "nodeStyle": "boxed"
+  }
+}
